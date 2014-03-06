@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Yellow_ Printer">
+</Property><Property Name="Solution File" Value="D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Yellow_ Printer.sln">
+</Property><Property Name="Date" Value="2010年5月19日">
+</Property><Property Name="Time" Value="20:38:15">
+</Property></Properties><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Yellow_ Printer.csproj" Description="Project file successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Yellow_ Printer.csproj">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Yellow_ Printer.csproj.user" Description="Project user file successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Yellow_ Printer.csproj.user">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="CrystalReport1.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\CrystalReport1.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="DataSet1.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\DataSet1.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="DataSet1.Designer.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\DataSet1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="FinallYellowReport.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\FinallYellowReport.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Form1.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Form1.Designer.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="LeastYellowReport.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\LeastYellowReport.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Program.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Reports.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Reports.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Reports.Designer.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Reports.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="YellowReport.cs" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\YellowReport.cs">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="app.config" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="DataSet1.xsc" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\DataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="DataSet1.xsd" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\DataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="DataSet1.xss" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\DataSet1.xss">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Properties\Settings.settings" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="CrystalReport1.rpt" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\CrystalReport1.rpt">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="FinallYellowReport.rpt" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\FinallYellowReport.rpt">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Form1.resx" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="LeastYellowReport.rpt" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\LeastYellowReport.rpt">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Properties\Resources.resx" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Reports.resx" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\Reports.resx">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="YellowReport.rpt" Description="File successfully backed up as D:\20097-27 Backup\Yellow_ Printernew\Yellow_ Printer\Backup\YellowReport.rpt">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Yellow_ Printer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Yellow_ Printer" Source="Yellow_ Printer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Yellow_ Printer" Source="Yellow_ Printer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
