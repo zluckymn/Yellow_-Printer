@@ -17,7 +17,7 @@ namespace Yellow__Printer {
     
     
     public class CrystalReport1 : ReportClass {
-        
+           
         public CrystalReport1() {
         }
         
